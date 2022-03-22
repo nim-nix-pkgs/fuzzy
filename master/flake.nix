@@ -9,7 +9,7 @@
   
   inputs.src-fuzzy-master.flake = false;
   inputs.src-fuzzy-master.owner = "pigmej";
-  inputs.src-fuzzy-master.ref   = "refs/heads/master";
+  inputs.src-fuzzy-master.ref   = "master";
   inputs.src-fuzzy-master.repo  = "fuzzy";
   inputs.src-fuzzy-master.type  = "github";
   
